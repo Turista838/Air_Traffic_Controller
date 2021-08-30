@@ -18,8 +18,11 @@ Before launching aviao.c, you need to set the following arguments:
 3. Name of the starting airport (It must be already created in control.c)<br/><br/>
 Example: aviao.c 10 4 Coimbra. Otherwise it will not launch.<br/><br/>
 * Commands:<br/>
-```exit``` -> exits the system (all clients are notified)<br/>
-```players``` -> lists all players (clients) connected<br/>
+```definir destino``` -> The program will ask you for an arrival airport (it must be already created in control.c)<br/>
+```embarcar``` -> Boards all the available passangers in that airport, for that specific flight<br/>
+```iniciar voo``` -> Take off. You can see the progress in control.c<br/>
+```info``` -> Basic information of the airplane<br/>
+```encerrar``` -> Terminates program<br/>
 
 #### passag.c
 As for passag.c, you need to set the following arguments:
