@@ -11,9 +11,9 @@ Controller is built with a GUI (Win32), whereas the Airplane and Passenger are c
 You need to launch the control.c first, otherwise the other programs will terminate automatically. When launched, it will ask you for the user to input the maximum number of airports that can be created and the maximum number of airplanes to be accepted by the Controller. After that you can navigate in the menu bar to add a new airport, view all planes connected, view all passengers connected, view all airports created, and suspend temporarily the acceptance of new incoming planes (new instances of aviao.c). Only one instance of control.c can be active.
 <br/><br/>
 Before launching aviao.c, you need to set the following arguments:
-1. Airplane capacity
-2. Velocity (Pixels per second)
-3. Name of the starting airport (It must be already created in control.c)
+ 1. Airplane capacity
+ 2. Velocity (Pixels per second)
+ 3. Name of the starting airport (It must be already created in control.c)
 Example: aviao.c 10 4 Coimbra. Otherwise it will not launch.
 <br/><br/>
 As for passag.c
