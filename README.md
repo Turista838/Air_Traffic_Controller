@@ -17,9 +17,9 @@ Before launching aviao.c, you need to set the following arguments:
 2. Velocity (Pixels per second)
 3. Name of the starting airport (It must be already created in control.c)<br/><br/>
 Example: aviao.c 10 4 Coimbra. Otherwise it will not launch.<br/><br/>
-* Commands:
- - asd
- - asd
+* Commands::<br/>
+```exit``` -> exits the system (all clients are notified)<br/>
+```players``` -> lists all players (clients) connected<br/>
 <br/><br/>
 #### passag.c
 As for passag.c, you need to set the following arguments:
