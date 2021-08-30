@@ -1,0 +1,3 @@
+﻿  passag.c
+C:\Users\Ramalho\source\repos\TP_SO2_gui\Passag\passag.c(51): warning C4716: 'ThreadPipesPassageiros': must return a value
+  Passag.vcxproj -> C:\Users\Ramalho\source\repos\TP_SO2_gui\Debug\Passag.exe

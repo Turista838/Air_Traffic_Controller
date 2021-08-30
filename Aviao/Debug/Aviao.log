@@ -1,0 +1,4 @@
+﻿  aviao.c
+C:\Users\Ramalho\source\repos\TP_SO2_gui\Aviao\aviao.c(20,40): warning C4013: '_getpid' undefined; assuming extern returning int
+C:\Users\Ramalho\source\repos\TP_SO2_gui\Aviao\aviao.c(154,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Aviao.vcxproj -> C:\Users\Ramalho\source\repos\TP_SO2_gui\Debug\Aviao.exe
