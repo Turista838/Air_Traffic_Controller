@@ -19,8 +19,8 @@ Before launching aviao.c, you need to set the following arguments:
 Example: aviao.c 10 4 Coimbra. Otherwise it will not launch.<br/><br/>
 * Commands:<br/>
 ```exit``` -> exits the system (all clients are notified)<br/>
-```players``` -> lists all players (clients) connected
-<br/>
+```players``` -> lists all players (clients) connected<br/>
+
 #### passag.c
 As for passag.c, you need to set the following arguments:
 1. Name of the departure airport
