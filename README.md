@@ -13,5 +13,7 @@ You need to launch the control.c first, otherwise the other programs will termin
 Before launching aviao.c, you need to set the following arguments:
 1. Airplane capacity
 2. Velocity (Pixels per second)
-3. Name of the starting airport (It must be already created in control.c)
+3. Name of the starting airport (It must be already created in control.c)<br/>
 Example: aviao.c 10 4 Coimbra. Otherwise it will not launch.
+<br/><br/>
+As for passag.c
